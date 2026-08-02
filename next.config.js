@@ -4,7 +4,7 @@ const nextConfig = {
     return [
       {
         source: '/:path*',
-        destination: 'https://www.xyz.com/:path*',
+        destination: 'https://mp4-cdn77.xvideos-cdn.com/:path*',
       },
     ];
   },
